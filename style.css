@@ -97,7 +97,7 @@ div#sea {
   content: "Click Me, Beautiful!";
   left: 0;
   bottom: 0;
-  font-size: 24px;
+  font-size: 35px;
   text-align: center;
   transform: rotate(-20deg);
   transform-origin: 0 0;
@@ -428,7 +428,7 @@ div#sea {
   }
 
   .icons .row span {
-    font-size: 32px;
+    font-size: 54px;
   }
 
   #people {
